@@ -3,5 +3,42 @@
 :root{
     --bg-color: #181C14;
     --primary-color: #ECDFCC;
+}--seconday-color;#f05454;
+--font:"nunito sans" ,sans-serif;
+
+
+body{
+    backgrond-color: var(--bg-color);
+    color: var(--primary-color
+    --font-famuily);var(--font);
+    height: 100vh;
+    margin:0;
 }
 
+header{
+    background-color: var(--primary-color
+    text-aligin: center;
+}
+
+}
+
+h1
+font-size:2rem;
+color:var(--bg-color);
+font-weight:700;
+}
+nav {
+    display: flex
+    justiy-content:center;
+    font-weight;400;
+    
+
+
+
+
+
+    }
+
+    
+
+}
